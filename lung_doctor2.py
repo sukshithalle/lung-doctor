@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="🩺 Lung Doctor Pro", layout="centered")
+st.set_page_config(page_title="🩺 Lung Doctor Pro max", layout="centered")
 st.title("🩺 Lung Doctor Pro")
 st.subheader("AI-assisted lung health check-up")
 
